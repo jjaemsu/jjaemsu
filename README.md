@@ -24,9 +24,9 @@
 ---
 
 ## 🛠️ Tech & Tools
-- **Languages:** Python (Data Analysis), C, Java
-- **Finance:** Quantlib, Backtrader, Financial Modeling
-- **Data:** Pandas, NumPy, SQL
+- **Languages:** Python (Data Analysis), C
+- **Finance:** Backtrader, Financial Modeling
+- **Data:** Pandas, NumPy, SQL, ML
 
 ---
 
