@@ -1,7 +1,7 @@
 # Hello, I'm Lee Chan-soo 👋
 ### 📈 Computer Science & International Finance | Quant Strategy
 
-금융의 흐름을 읽고 인사이트를 획득을 목표로 공부하고 있습니다. 
+금융의 흐름을 읽고 인사이트 획득을 목표로 공부하고 있습니다. 
 증권사 리서치, 트레이딩, PB 직군을 목표로 하고 있습니다.
 
 ---
