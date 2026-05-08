@@ -9,7 +9,7 @@
 ## 🎖️ Core Credentials
 | Category | Details |
 | :--- | :--- |
-| **Certificates** | 🏅 투자자산운용사(Certified Investment Manager) <br> 🎓 CFA Level 1 Candidate/Pass |
+| **Certificates** | 🏅 투자자산운용사(Certified Investment Manager) <br> 🎓 CFA Level 2 Candidate/ Level 1 Passeed |
 | **Education** | 🏫 한국외국어대학교 컴퓨터공학 & 국제금융 전공 |
 | **Activity** | 📊 학술 동아리 GVIF 6기 퀀트전략팀 |
 | **Military** | 🎖️ 대한민국 육군 병장 만기 전역 |
